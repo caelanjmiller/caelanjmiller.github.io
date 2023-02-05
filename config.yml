@@ -1,0 +1,63 @@
+baseURL: https://caelanmiller.github.io/
+languageCode: en-us
+title: Caelan Miller
+theme: PaperMod
+
+#Adds Main Navbar Links
+menu:
+  main:
+    - identifier: publications
+      name: Publications
+      url: /publications/
+      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 20
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
+
+#Allows for Search Functionality Amongst Posts
+outputs:
+home:
+  - HTML
+  - RSS
+  - JSON
+
+# Parameters for Profile PaperMod Theme
+params:
+  defaultTheme: dark
+  disableThemeToggle: false
+  author: Caelan Miller
+  ShowBreadCrumbs: true
+  assets:
+    favicon: "img/favicon.ico"
+    favicon16x16: "img/favicon-16x16.png"
+    favicon32x32: "img/favicon-32x32.png"
+    apple_touch_icon: "apple-touch-icon.png"
+  
+  profileMode:
+    enabled: true
+    title: "<Title>" 
+    subtitle: "PhD Student in Computational Biology"
+    imageUrl: "img/Miller_Caelan.jpeg"
+    imageTitle: "Profile Image of Caelan Miller"
+    imageWidth: 300 
+    imageHeight: 300
+    buttons:
+    - name: Publications
+      url: publications
+    - name: CV
+      url: cv 
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/caelanjmiller"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/caelan-miller"
