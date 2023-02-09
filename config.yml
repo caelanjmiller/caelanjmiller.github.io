@@ -3,61 +3,78 @@ languageCode: en-us
 title: Caelan Miller
 theme: PaperMod
 
-#Adds Main Navbar Links
-menu:
-  main:
-    - identifier: publications
-      name: Publications
-      url: /publications/
-      weight: 10
-    - identifier: projects
-      name: Projects
-      url: /projects/
-      weight: 20
-    - identifier: posts
-      name: Posts
-      url: /posts/
-      weight: 30
-    - identifier: search
-      name: Search
-      url: /search/
-      weight: 40
-
-#Allows for Search Functionality Amongst Posts
-outputs:
-home:
-  - HTML
-  - RSS
-  - JSON
-
 # Parameters for Profile PaperMod Theme
 params:
+  env: production
   defaultTheme: dark
-  disableThemeToggle: false
+  disableThemeToggle: true
   author: Caelan Miller
   ShowBreadCrumbs: true
+  label:
+    text: Home
+    icon: img/virus_white.png
+    iconHeight: 35
+
+# Search Parameters
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
   assets:
     favicon: "img/favicon.ico"
     favicon16x16: "img/favicon-16x16.png"
     favicon32x32: "img/favicon-32x32.png"
-    apple_touch_icon: "apple-touch-icon.png"
+    apple_touch_icon: "img/apple-touch-icon.png"
   
   profileMode:
     enabled: true
     title: "<Title>" 
-    subtitle: "PhD Student in Computational Biology"
+    subtitle: "PhD Student in Computational Biology [@WUSTL](https://dbbs.wustl.edu/Pages/index.aspx)"
     imageUrl: "img/Miller_Caelan.jpeg"
     imageTitle: "Profile Image of Caelan Miller"
     imageWidth: 300 
     imageHeight: 300
-    buttons:
-    - name: Publications
-      url: publications
-    - name: CV
-      url: cv 
 
   socialIcons:
     - name: github
       url: "https://github.com/caelanjmiller"
     - name: linkedin
       url: "https://www.linkedin.com/in/caelan-miller"
+    - name: email
+      url: "mailto:caelanjmiller@wustl.edu"
+
+# Adds Main Navbar Links
+menu:
+  main:
+    - identifier: cv
+      name: CV
+      url: /cv
+      weight: 10
+    - identifier: publications
+      name: Publications
+      url: /publications/
+      weight: 20
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 30
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 40
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 50
+
+# Allows for Search Functionality Amongst Posts
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
