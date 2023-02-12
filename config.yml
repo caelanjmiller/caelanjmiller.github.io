@@ -1,4 +1,4 @@
-baseURL: https://caelanmiller.github.io/
+baseURL: https://caelanjmiller.github.io/
 languageCode: en-us
 title: Caelan Miller
 theme: PaperMod
@@ -6,10 +6,10 @@ theme: PaperMod
 # Parameters for Profile PaperMod Theme
 params:
   env: production
-  defaultTheme: dark
-  disableThemeToggle: true
-  author: Caelan Miller
+  defaultTheme: auto
+  disableThemeToggle: false
   ShowBreadCrumbs: true
+  ShowReadingTime: true
   label:
     text: Home
     icon: img/virus_white.png
