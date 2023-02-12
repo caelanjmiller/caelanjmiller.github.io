@@ -1,0 +1,9 @@
+.nav a:hover, a:focus, a:active {
+    text-decoration: underline;
+    text-decoration-thickness: .15rem;
+    text-decoration-skip-ink: auto;
+}
+span a:hover, a:focus, a:active {
+    text-decoration: underline;
+    text-decoration-thickness: .15rem;
+}
