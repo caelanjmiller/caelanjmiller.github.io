@@ -1,7 +1,6 @@
 ---
 showBreadCrumbs: false
 showReadingTime: false
-showTitle: false
 ---
 
 ## Education
