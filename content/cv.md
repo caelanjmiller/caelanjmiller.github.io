@@ -6,18 +6,20 @@ showReadingTime: false
 ## Education
 
 ---
-2023 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Ph.D. Student in Computational Biology**. Washington University in St. Louis, St. Louis, MO.
+2023 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Ph.D. Student in Molecular Microbiology**. Washington University in St. Louis, St. Louis, MO.
 
 2017 - 2021&nbsp;&nbsp;&nbsp;&nbsp;**B.A. in Biology: Microbiology**. Washington University in St. Louis, St. Louis, MO.
 
 ## Research Experience
 
 ---
-2021 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Laboratory Technician**. PI: Dr. Lucia Strader. Department of Biology. Duke University. Durham, NC.
+2021 - 2023&nbsp;&nbsp;&nbsp;&nbsp;**Laboratory Technician**. PI: Dr. Lucia Strader. Department of Biology. Duke University. Durham, NC.
 
 - Cloned 70,000 *Arabidopsis thaliana* transcription factor fragments into inducible expression constructs to characterize activation domain sequences and structural motifs.
 
-- Built the ActDom CLI Tool, allowing users to query a database of activation scores for nearly 1,900 *Arabidopsis thaliana* transcription factors.
+- Built the *Arabidopsis thaliana* Activation Domain (ATAD) CLI Tool, allowing users to query a database of activation scores for nearly 1,900 *Arabidopsis thaliana* transcription factors.
+
+- Built the *Arabidopsis thaliana* Activation Domain (ATAD) Viewer, as a web app alternative to the ATAD CLI Tool. 
 
 2020-2021&nbsp;&nbsp;&nbsp;&nbsp;**Laboratory Technician**. PI: Dr. Rebecca Bart. Donald Danforth Plant Science Center. St. Louis, MO.
 
