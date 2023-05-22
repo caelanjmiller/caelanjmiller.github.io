@@ -15,7 +15,7 @@ Listed below are some of the projects I am currently working on or have in the p
 
 ## Data Visualizations
 
-- [*Arabidopsis thaliana* Activation Domain (ATAD) Viewer](https://github.com/caelanjmiller/AT-AD-Viewer) - Web App Version of [CLI Tool](https://github.com/caelanjmiller/AT-AD-CLI) built using [Dash](https://dash.plotly.com/)
+- [*Arabidopsis thaliana* Activation Domain (ATAD) Viewer](https://transcription.biology.duke.edu) - Web App Version of [CLI Tool](https://github.com/caelanjmiller/AT-AD-CLI) built using [Dash](https://dash.plotly.com/); [GitHub Repository](https://github.com/caelanjmiller/AT-AD-Viewer)
 
 ## Miscellaneous
 

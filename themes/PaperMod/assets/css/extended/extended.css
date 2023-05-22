@@ -1,3 +1,4 @@
+/** Provide Easier Contrast for Hovering on Links **/
 .nav a:hover, a:focus, a:active {
     text-decoration: underline;
     text-decoration-thickness: .15rem;
@@ -6,4 +7,9 @@
 span a:hover, a:focus, a:active {
     text-decoration: underline;
     text-decoration-thickness: .15rem;
+}
+
+/** Prevent Social Media Icons From Having Underline After Clicking **/
+.social-icons a {
+    text-decoration: none;
 }
