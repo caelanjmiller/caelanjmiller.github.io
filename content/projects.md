@@ -11,12 +11,12 @@ Listed below are some of the projects I am currently working on or have in the p
 
 ## Python Packages
 
-- [*Arabidopsis thaliana* Activation Domain (ATAD) CLI](https://github.com/caelanjmiller/AT-AD-CLI) - Command Line Tool to query activation domain data on *Arabidopsis thaliana* transcription factors
+- [*Arabidopsis thaliana* Activation Domain (ATAD) CLI](https://github.com/caelanjmiller/ATAD-CLI) - Command Line Tool to query activation domain data on *Arabidopsis thaliana* transcription factors
 
 ## Data Visualizations
 
-- [*Arabidopsis thaliana* Activation Domain (ATAD) Viewer](https://transcription.biology.duke.edu) - Web App Version of [CLI Tool](https://github.com/caelanjmiller/AT-AD-CLI) built using [Dash](https://dash.plotly.com/); [GitHub Repository](https://github.com/caelanjmiller/AT-AD-Viewer)
+- [*Arabidopsis thaliana* Activation Domain (ATAD) Viewer](https://transcription.biology.duke.edu) - Web App Version of [CLI Tool](https://github.com/caelanjmiller/ATAD-CLI) built using [Dash](https://dash.plotly.com/); [GitHub Repository](https://github.com/caelanjmiller/ATAD-Viewer)
 
 ## Miscellaneous
 
-- [caelanjmiller.github.io](https://www.caelanjmiller.github.io) - This website built with [Hugo](https://gohugo.io/)
+- [caelanjmiller.github.io](https://caelanjmiller.github.io/) - This website built with [Hugo](https://gohugo.io/)

@@ -47,6 +47,8 @@ params:
       url: "https://www.linkedin.com/in/caelan-miller"
     - name: email
       url: "mailto:caelanjmiller@wustl.edu"
+    - name: orcid
+      url: "https://orcid.org/0009-0001-5944-2327"
 
 # Adds Main Navbar Links
 menu:

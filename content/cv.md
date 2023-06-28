@@ -19,7 +19,7 @@ showReadingTime: false
 
 - Built the *Arabidopsis thaliana* Activation Domain (ATAD) CLI Tool, allowing users to query a database of activation scores for nearly 1,900 *Arabidopsis thaliana* transcription factors.
 
-- Built the *Arabidopsis thaliana* Activation Domain (ATAD) Viewer, as a web app alternative to the ATAD CLI Tool. 
+- Built the *Arabidopsis thaliana* Activation Domain (ATAD) Viewer, as a web app alternative to the ATAD CLI Tool.
 
 2020-2021&nbsp;&nbsp;&nbsp;&nbsp;**Laboratory Technician**. PI: Dr. Rebecca Bart. Donald Danforth Plant Science Center. St. Louis, MO.
 
@@ -49,6 +49,11 @@ showReadingTime: false
 [Streptomyces Phage Circinus, complete genome.](https://www.ncbi.nlm.nih.gov/nuccore/MK620896.1?report=genbank&to=126383) Kwan, A., **Miller, C.**, Herrmann, A., Tang, B.L., Shaffer, C.D., Weston-Hafer, K.A., Russell, D.A., Pope, W.H., Jacobs-Sera, D., Hendrix, R.W. and Hatfull, G.F.
 
 [Streptomyces Phage Targaryen, complete genome.](https://www.ncbi.nlm.nih.gov/nuccore/2131137446) **Miller, C.**, Curnutt, N., McDermut, M., Hartigan, K.A., Mousa, M., Shaffer, C.D., Weston-Hafer, K.A., Garlena, R.A., Russell, D.A., Jacobs-Sera, D. and Hatfull, G.F.
+
+## Publications
+
+---
+Nicholas Morffy, Lisa Van den Broeck, **Caelan Miller**, Ryan Emenecker, John Bryant, Saloni Mahatma, R Wright, Alex Holehouse, Max Staller, Rosangela Sozzani. June 26 2023. Plant Activation Domain Identification. (Manuscript Submitted For Publication)
 
 ## Poster Presentations
 
