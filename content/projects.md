@@ -2,6 +2,7 @@
 title: Projects
 url: projects
 showBreadCrumbs: false
+showReadingTime: false
 ---
 Listed below are some of the projects I am currently working on or have in the past:
 
@@ -21,3 +22,4 @@ Listed below are some of the projects I am currently working on or have in the p
 
 - [caelanjmiller.github.io](https://caelanjmiller.github.io/) - This website built with [Hugo](https://gohugo.io/)
 - [CRISPR Cas13 gRNA Primer Designer](https://cas13-grna-design-tool.onrender.com/) - Web app to design primers for the CRISPR Cas13 system. Made during my rotation in the [LeRoux Lab](https://www.leroux-lab.org/); [GitHub Repository](https://github.com/caelanjmiller/Cas13-gRNA-Design-Webapp)
+- [When Am I Getting Paid?](ddbs-stipend-paydates.onrender.com/) - Web app to inform WUSTL DBBS students when they will receive their monthly stipend & generate a calendar file (`.ics`) to add to their personal calendar of the upcoming pay dates; [GitHub Repository](https://github.com/caelanjmiller/Stipend-Paydate-Site)
