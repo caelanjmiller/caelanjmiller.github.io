@@ -6,7 +6,7 @@ showReadingTime: false
 ## Education
 
 ---
-2023 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Ph.D. Student in Molecular Microbiology**. Washington University in St. Louis, St. Louis, MO.
+2023 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Ph.D. Student in Computational & Systems Biology**. Washington University in St. Louis, St. Louis, MO.
 
 2017 - 2021&nbsp;&nbsp;&nbsp;&nbsp;**B.A. in Biology: Microbiology**. Washington University in St. Louis, St. Louis, MO.
 
