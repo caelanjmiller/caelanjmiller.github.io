@@ -35,7 +35,7 @@ params:
     enabled: true
     title: "<Title>" 
     subtitle: "PhD Student in Computational & Systems Biology [@WUSTL](https://dbbs.wustl.edu)"
-    imageUrl: "img/Miller_Caelan.jpeg"
+    imageUrl: "img/Miller_Caelan.jpg"
     imageTitle: "Profile Image of Caelan Miller"
     imageWidth: 300 
     imageHeight: 300
