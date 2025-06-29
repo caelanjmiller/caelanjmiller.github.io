@@ -65,14 +65,10 @@ menu:
       name: Projects
       url: /projects
       weight: 30
-    - identifier: posts
-      name: Posts
-      url: /posts/
-      weight: 40
     - identifier: search
       name: Search
       url: /search/
-      weight: 50
+      weight: 40
 
 # Allows for Search Functionality Amongst Posts
 outputs:
