@@ -12,7 +12,7 @@ params:
   ShowReadingTime: true
   label:
     text: Home
-    icon: img/virus_white.png
+    icon: img/bacteriophage-light-mode.png
     iconHeight: 35
 
 # Search Parameters
