@@ -53,7 +53,7 @@ showReadingTime: false
 ## Publications
 
 ---
-Nicholas Morffy, Lisa Van den Broeck, **Caelan Miller**, Ryan Emenecker, John Bryant, Saloni Mahatma, R Wright, Alex Holehouse, Max Staller, Rosangela Sozzani. June 26 2023. Plant Activation Domain Identification. (Manuscript Submitted For Publication)
+Nicholas Morffy, Lisa Van den Broeck, **Caelan Miller**, Ryan Emenecker, John Bryant, Saloni Mahatma, R Wright, Alex Holehouse, Max Staller, Rosangela Sozzani. July 17 2024. Plant Activation Domain Identification. [10.1038/s41586-024-07707-3](https://doi.org/10.1038/s41586-024-07707-3)
 
 ## Poster Presentations
 
@@ -69,6 +69,8 @@ Nicholas Morffy, Lisa Van den Broeck, **Caelan Miller**, Ryan Emenecker, John Br
 ## Teaching Experience
 
 ---
+Spring 2025&nbsp;&nbsp;&nbsp;&nbsp;**Assistant to Instructor**, BIO 3490: Microbiology, Washington University in St. Louis
+
 Spring 2020&nbsp;&nbsp;&nbsp;&nbsp;**Teaching Assistant**, BIO 192: Ampersand: Phage Hunters II, Washington University in St. Louis
 
 Spring 2019&nbsp;&nbsp;&nbsp;&nbsp;**Teaching Assistant**, BIO 2961: Collaborative Phage Bioinformatics, Washington University in St. Louis
