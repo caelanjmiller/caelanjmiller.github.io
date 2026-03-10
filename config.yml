@@ -6,13 +6,13 @@ theme: PaperMod
 # Parameters for Profile PaperMod Theme
 params:
   env: production
-  defaultTheme: auto
+  defaultTheme: dark
   disableThemeToggle: false
   ShowBreadCrumbs: true
   ShowReadingTime: true
   label:
     text: Home
-    icon: img/bacteriophage-light-mode.png
+    icon: img/bacteriophage-dark-mode.png
     iconHeight: 35
 
 # Search Parameters
