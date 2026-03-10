@@ -29,6 +29,11 @@
                             document.getElementById("siteLogo").src = "/static/img/bacteriophage-dark-mode.png";
                         }
                     </script>
+                    <script>
+                        if (document.body.className.includes("light")) {
+                            document.getElementById("siteLogo").src = "/static/img/bacteriophage-light-mode.png";
+                        }
+                    </script>
                 {{- end -}}
                 {{- else if hasPrefix site.Params.label.iconSVG "<svg" }}
                     {{ site.Params.label.iconSVG | safeHTML }}
